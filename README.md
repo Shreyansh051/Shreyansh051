@@ -1,6 +1,6 @@
-<!-- <h1 align="center">Hi 👋 , I'm Shreyansh</h1>
+
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> , I'm Shreyansh </h1>
 <h3 align="center">A passionate full stack developer from India</h3> -->
-<h1 align="center">Hi , I'm Shreyansh  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
       <a href="#"><img src="https://readme-typing-svg.herokuapp.com?color=FFF&center=true&lines=1500%2B+Hours+of+Coding+Experience;Data+Structure;Algorithm;MERN;Full+Stack+Web+Developer"></img></a>
 
 
