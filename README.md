@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shreyansh</h1>
+<h1 align="center">Hi 👋 &#128512;, I'm Shreyansh</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyansh12gupta&label=Profile%20views&color=0e75b6&style=flat" alt="shreyansh12gupta" /> </p>
