@@ -33,9 +33,9 @@
 
 [![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Shreyansh12Gupta&&theme=xcode)](https://github.com/Shreyansh12Gupta)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shreyansh12gupta&show_icons=true&locale=en&layout=compact" alt="shreyansh12gupta" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shreyansh12gupta&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="shreyansh12gupta" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shreyansh12gupta&show_icons=true&locale=en" alt="shreyansh12gupta" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shreyansh12gupta&show_icons=true&locale=en&theme=tokyonight" alt="shreyansh12gupta" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shreyansh12gupta&" alt="shreyansh12gupta" /></p>
 
