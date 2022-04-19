@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> , I'm Shreyansh </h1>
 <h3 align="center">A passionate full stack developer from India</h3> 
-      <a href="#"><img src="https://readme-typing-svg.herokuapp.com?color=rgb(133,229,198)&align=center&center=true&lines= A+Passionate+Full+Stack+Web+Developer"></img></a>
+      <a href="#"><img src="https://readme-typing-svg.herokuapp.com?color=rgb(133,229,198)&center=true&lines=A+Passionate+Full+Stack+Web+Developer"></img></a>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyansh12gupta&label=Profile%20views&color=0e75b6&style=flat" alt="shreyansh12gupta" /> </p>
