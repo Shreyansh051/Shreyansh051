@@ -10,11 +10,11 @@
 
 - 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **React ,Mern ,Frontend**
+- 💬 Ask me about **JavaScript,Html,Css,React,Mern,Frontend**
 
 - 📫 How to reach me **shreyanshgupta148@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1og95geWjfBgxWbzEMfo300u97RB8cXK0/edit?usp=sharing&ouid=106469517440272987964&rtpof=true&sd=true](https://docs.google.com/document/d/1og95geWjfBgxWbzEMfo300u97RB8cXK0/edit?usp=sharing&ouid=106469517440272987964&rtpof=true&sd=true)
+- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1og95geWjfBgxWbzEMfo300u97RB8cXK0/edit?usp=sharing&ouid=106469517440272987964&rtpof=true&sd=true)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
