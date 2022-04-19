@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Shreyansh</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
@@ -10,7 +9,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **JavaScript,Html,Css,React,Mern,Frontend**
+- 💬 Ask me about **React ,Mern ,Frontend**
 
 - 📫 How to reach me **shreyanshgupta148@gmail.com**
 
@@ -37,3 +36,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shreyansh12gupta&show_icons=true&locale=en" alt="shreyansh12gupta" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shreyansh12gupta&" alt="shreyansh12gupta" /></p>
+
