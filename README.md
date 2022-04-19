@@ -1,5 +1,6 @@
 
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"><a href="#"><img src="https://readme-typing-svg.herokuapp.com?color=rgb(133,229,198)&center=true&lines=,I'm Shreyansh"></img></a>  </h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1><a href="#"><img src="https://readme-typing-svg.herokuapp.com?color=rgb(133,229,198)&center=true&lines=,I'm Shreyansh"></img></a></h1>
 <h3 align="center">A passionate full stack developer from India</h3> 
      
 
