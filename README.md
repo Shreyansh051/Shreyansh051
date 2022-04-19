@@ -3,7 +3,8 @@
 <h3 align="center"><img src="https://readme-typing-svg.herokuapp.com?color=rgb(133,229,198)&center=true&lines=Aspiring+Full+Stack+Developer"></img></h3> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyansh12gupta&label=Profile%20views&color=0e75b6&style=flat" alt="shreyansh12gupta" /> </p>
-<p align="left"> <img src="https://www.lambdatest.com/resources/images/ezgif.com-gif-maker-16.gif" alt="Coding" width="600" height="300" /> </p>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shreyansh12gupta" alt="shreyansh12gupta" /></a> </p>
 
