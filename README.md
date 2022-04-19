@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Shreyansh</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-<p align="left"> <img src="img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207..." alt="shreyansh12gupta" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyansh12gupta&label=Profile%20views&color=0e75b6&style=flat" alt="shreyansh12gupta" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shreyansh12gupta" alt="shreyansh12gupta" /></a> </p>
 
