@@ -5,11 +5,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyansh051&label=Profile%20views&color=0e75b6&style=flat" alt="shreyansh051" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shreyansh051" alt="shreyansh051" /></a> </p>
-<p align="left">About Me :-
+<h3 align="left">About Me :-
   
   
 I am an Aspiring full-stack developer specializing in mern stack. I like to learn new skills. Self-determined and curious about building products.
-</p>
+</h3>
 
 <p align="left"> <a href="https://twitter.com/shreyanshgupta" target="blank"><img src="https://img.shields.io/twitter/follow/shreyanshgupta?logo=twitter&style=for-the-badge" alt="shreyanshgupta" /></a> </p>
 
