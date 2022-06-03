@@ -2,7 +2,8 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">,I'm Shreyansh</h1>
 <h3 align="center"><img src="https://readme-typing-svg.herokuapp.com?color=rgb(133,229,198)&center=true&lines=Aspiring+Full+Stack+Developer"></img></h3> 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyansh051label=Profile%20views&color=0e75b6&style=flat" alt="shreyansh051" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyansh051&label=Profile%20views&color=0e75b6&style=flat" alt="shreyansh051" /> </p>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shreyansh051" alt="shreyansh051" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/shreyanshgupta" target="blank"><img src="https://img.shields.io/twitter/follow/shreyanshgupta?logo=twitter&style=for-the-badge" alt="shreyanshgupta" /></a> </p>
