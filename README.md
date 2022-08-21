@@ -8,7 +8,7 @@
 <h3 align="left">About Me :-
   
   
-I am an Aspiring full-stack developer specializing in mern stack. I like to learn new skills. Self-determined and curious about building products.
+I'm passionate full-stack developer specializing in mern stack. I keen to learn new skills. Self-determined and curious about building products.
 </h3>
 
 <p align="left"> <a href="https://twitter.com/shreyanshgupta" target="blank"><img src="https://img.shields.io/twitter/follow/shreyanshgupta?logo=twitter&style=for-the-badge" alt="shreyanshgupta" /></a> </p>
@@ -22,11 +22,11 @@ I am an Aspiring full-stack developer specializing in mern stack. I like to lear
 
 - 📝 I regularly write articles on [https://medium.com/@shreyanshgupta148](https://medium.com/@shreyanshgupta148)
 
-- 💬 Ask me about **React,Mern,Frontend,Backend,Dsa,**
+- 💬 Ask me about **React,Mern,Frontend,Backend,Dsa,Designing,**
 
 - 📫 How to reach me **shreyanshgupta148@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1og95geWjfBgxWbzEMfo300u97RB8cXK0/edit?usp=sharing&ouid=106469517440272987964&rtpof=true&sd=true](https://docs.google.com/document/d/1og95geWjfBgxWbzEMfo300u97RB8cXK0/edit?usp=sharing&ouid=106469517440272987964&rtpof=true&sd=true)
+- 📄 Know about my experiences https://drive.google.com/file/d/1F3I-6DsSYLlcbJtpFI2jhT9LUO0utndi/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
